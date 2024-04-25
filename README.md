@@ -1,1 +1,2 @@
-# ef-nushtaev-app
+# vnap-app
+vercel + next +auth + prisma
